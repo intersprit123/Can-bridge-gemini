@@ -1,0 +1,6 @@
+{
+  "name": "CamLink Pro - Cross-Platform IP Camera & Remote Controller",
+  "description": "Live HD camera sharing and bidirectional remote control across phones and PCs with full camera hardware settings, background streaming, IP pairing, and Google Play APK & Microsoft Store EXE/MSI release packaging.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

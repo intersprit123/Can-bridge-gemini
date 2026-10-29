@@ -1,0 +1,5 @@
+{
+  "summary":  "CamLink Pro Distribution Suite:\n- CamLinkPro-Release.apk: Android APK with hardware camera & background streaming permissions.\n- CamLinkPro-Setup.exe: Windows standalone executable installer.\n- CamLinkPro-Installer.msi: Windows Installer package for enterprise deployment and Microsoft Store packaging.",
+  "updatedAt":  "2026-10-29T15:14:56.471705585Z",
+  "userFacing":  true
+}
